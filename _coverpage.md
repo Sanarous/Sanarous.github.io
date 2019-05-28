@@ -1,8 +1,8 @@
-![logo](https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/icon.png)
+<div class="cover-main"><img width="150px" src="https://blogimage-1258928558.cos.ap-guangzhou.myqcloud.com/friends/touxiang.jpeg" style="border-radius: 50%">
+<br/>
 
-# Sanarous Study Hub
+# Sanarous-Notes
 
-> makes better life and coding
+本站主要分享Java开发所涉及到的各种知识总结笔记
 
-[GitHub](https://github.com/Sanarous/)
-[Get Started](#/?id=sanarous)
+[开始阅读](/README)
