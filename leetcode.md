@@ -16,3 +16,9 @@
 - [LeetCode题解笔记-贪心算法](leetcode-greedy)
 - [LeetCode题解笔记-数学](leetcode-math)
 - [LeetCode题解笔记-图](leetcode-picture)
+
+
+**作者信息**
+* 个人博客：https://bestzuo.cn
+* Github：https://github.com/Sanarous
+* 邮箱：zuoxiang@whut.edu.cn

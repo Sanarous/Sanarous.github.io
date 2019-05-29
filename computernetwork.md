@@ -6,3 +6,10 @@
 - [计算机网络-网络层](computernetwork-network-layer)
 - [计算机网络-传输层](computernetwork-transmision-layer)
 - [计算机网络-应用层](computernetwork-application-layer)
+
+
+
+**作者信息**
+* 个人博客：https://bestzuo.cn
+* Github：https://github.com/Sanarous
+* 邮箱：zuoxiang@whut.edu.cn
