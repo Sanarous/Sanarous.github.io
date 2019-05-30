@@ -24,8 +24,8 @@
 - [Java虚拟机](jvm)
 
 ### 💾 数据库笔记
-- [MySQL](mysql)
-- [Redis](redis)
+- [MySQL](mysql.md)
+- [Redis](redis.md)
 
 ### 📚 SpringBoot学习笔记
 - [SpringBoot入门](springboot-helloworld)
