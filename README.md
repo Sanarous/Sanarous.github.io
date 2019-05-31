@@ -34,6 +34,9 @@
 - [SpringBoot与中间件](springboot-mq)
 - [SpringBoot综合实践](springboot-exercise)
 
+### 🎨 面向对象思想
+- [设计模式](design-pattern)
+
 ### 🔧 常用工具使用笔记
 - [Docker](docker)
 -----
