@@ -32,7 +32,7 @@
 
 # TCP 的三次握手
 
-<div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/e92d0ebc-7d46-413b-aec1-34a39602f787.png" width="600"/> </div><br>
+<div align="center"><img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/tcp%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.gif"></div>
 
 假设 A 为客户端，B 为服务器端。
 
@@ -46,15 +46,17 @@
 
 - B 收到 A 的确认后，连接建立。
 
+<div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/e92d0ebc-7d46-413b-aec1-34a39602f787.png" width="600"/> </div><br>
+
 **三次握手的原因** 
 
-第三次握手是为了防止失效的连接请求到达服务器，让服务器错误打开连接。
+<font color="red">第三次握手是为了防止失效的连接请求到达服务器，让服务器错误打开连接。</font>
 
 客户端发送的连接请求如果在网络中滞留，那么就会隔很长一段时间才能收到服务器端发回的连接确认。客户端等待一个超时重传时间之后，就会重新请求连接。但是这个滞留的连接请求最后还是会到达服务器，如果不进行三次握手，那么服务器就会打开两个连接。如果有第三次握手，客户端会忽略服务器之后发送的对滞留连接请求的连接确认，不进行第三次握手，因此就不会再次打开连接。
 
 # TCP 的四次挥手
 
-<div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/f87afe72-c2df-4c12-ac03-9b8d581a8af8.jpg" width="600"/> </div><br>
+<div align="center"><img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/tcp%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.gif"/></div>
 
 以下描述不讨论序号和确认号，因为序号和确认号的规则比较简单。并且不讨论 ACK，因为 ACK 在连接建立之后都为 1。
 
@@ -68,9 +70,11 @@
 
 - B 收到 A 的确认后释放连接。
 
+<div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/f87afe72-c2df-4c12-ac03-9b8d581a8af8.jpg" width="600"/> </div><br>
+
 **四次挥手的原因** 
 
-客户端发送了 FIN 连接释放报文之后，服务器收到了这个报文，就进入了 CLOSE-WAIT 状态。这个状态是为了让服务器端发送还未传送完毕的数据，传送完毕之后，服务器会发送 FIN 连接释放报文。
+<font color="red">客户端发送了 FIN 连接释放报文之后，服务器收到了这个报文，就进入了 CLOSE-WAIT 状态。这个状态是为了让服务器端发送还未传送完毕的数据，传送完毕之后，服务器会发送 FIN 连接释放报文。</font>
 
 **TIME_WAIT** 
 
@@ -102,7 +106,7 @@ TCP 使用超时重传来实现可靠传输：如果一个已经发送的报文�
 
 发送窗口内的字节都允许被发送，接收窗口内的字节都允许被接收。如果发送窗口左部的字节已经发送并且收到了确认，那么就将发送窗口向右滑动一定距离，直到左部第一个字节不是已发送并且已确认的状态；接收窗口的滑动类似，接收窗口左部字节已经发送确认并交付主机，就向右滑动接收窗口。
 
-接收窗口只会对窗口内最后一个按序到达的字节进行确认，例如接收窗口已经收到的字节为 {31, 34, 35}，其中 {31} 按序到达，而 {34, 35} 就不是，因此只对字节 31 进行确认。发送方得到一个字节的确认之后，就知道这个字节之前的所有字节都已经被接收。
+接收窗口只会对窗口内最后一个按序到达的字节进行确认（累积确认），例如接收窗口已经收到的字节为 {31, 34, 35}，其中 {31} 按序到达，而 {34, 35} 就不是，因此只对字节 31 进行确认。发送方得到一个字节的确认之后，就知道这个字节之前的所有字节都已经被接收。
 
 <div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/a3253deb-8d21-40a1-aae4-7d178e4aa319.jpg" width="800"/> </div><br>
 

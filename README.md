@@ -1,8 +1,4 @@
-<span style="text-align:center"><font size="20">Sanarous-Notes</font></span>
-
-<br/>
-
-> 这里记录了Java各种学习笔记，目前还在继续补充中，希望能够一起学习
+> 这里记录了Java各种学习笔记，目前还在继续补充中，希望能够一起补充学习
 
 ### ✏️ 数据结构与算法笔记
 - [剑指offer题解笔记](offer.md)
@@ -29,9 +25,9 @@
 - [Redis](redis.md)
 
 ### 💡 Java框架学习笔记
-- [Spring与SpringMVC面试](spring)
-- [MyBatis面试](mybatis)
-- [Hibernate面试](hibernate)
+- [Spring与SpringMVC](spring)
+- [MyBatis](mybatis)
+- [Hibernate](hibernate)
 
 ### 📚 SpringBoot学习笔记
 - [SpringBoot入门](springboot-helloworld.md)

@@ -108,3 +108,7 @@ TCP/IP 体系结构不严格遵循 OSI 分层概念，应用层可能会直接�
 在向下的过程中，需要添加下层协议所需要的首部或者尾部，而在向上的过程中不断拆开首部和尾部。
 
 路由器只有下面三层协议，因为路由器位于网络核心中，不需要为进程或者应用程序提供服务，因此也就不需要传输层和应用层。
+
+数据在计算机网络中传输过程如下：
+
+<div align="center"><img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network/computer-network.gif"/></div>
