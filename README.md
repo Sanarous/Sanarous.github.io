@@ -20,12 +20,18 @@
 - [JavaSE](javase.md)
 - [Java容器](javacontainer.md)
 - [Java I/O](javaio.md)
+- [Java Web](javaweb)
 - [Java多线程](multithread.md)
 - [Java虚拟机](jvm.md)
 
 ### 💾 数据库笔记
 - [MySQL](mysql.md)
 - [Redis](redis.md)
+
+### 💡 Java框架学习笔记
+- [Spring与SpringMVC面试](spring)
+- [MyBatis面试](mybatis)
+- [Hibernate面试](hibernate)
 
 ### 📚 SpringBoot学习笔记
 - [SpringBoot入门](springboot-helloworld.md)
@@ -35,7 +41,7 @@
 - [SpringBoot综合实践](springboot-exercise.md)
 
 ### 🎨 面向对象思想
-- [设计模式](design-pattern)
+- [23种设计模式](design-pattern)
 
 ### 🔧 常用工具使用笔记
 - [Docker](docker.md)
