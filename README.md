@@ -21,6 +21,8 @@
 - [Java虚拟机](jvm.md)
 
 ### 💾 数据库笔记
+- [数据库系统原理](database-principle.md)
+- [SQL](sql.md)
 - [MySQL](mysql.md)
 - [Redis](redis.md)
 
