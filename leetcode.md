@@ -6,7 +6,7 @@
 - [LeetCode题解笔记-链表](leetcode-linkedlist)
 - [LeetCode题解笔记-排序](leetcode-sort)
 - [LeetCode题解笔记-树](leetcode-tree)
-- [LeetCode题解笔记-双指针](leetcode-doublepick)
+- [LeetCode题解笔记-双指针](leetcode-doublepointer)
 - [LeetCode题解笔记-位运算](leetcode-bit)
 - [LeetCode题解笔记-搜索](leetcode-search)
 - [LeetCode题解笔记-哈希表](leetcode-hash)
