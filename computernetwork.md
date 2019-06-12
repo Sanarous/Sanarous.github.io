@@ -7,6 +7,10 @@
 - [计算机网络-传输层](computernetwork-transmision-layer)
 - [计算机网络-应用层](computernetwork-application-layer)
 
+**面试题**
+
+附件：<a href="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/computer-network-interview.pdf" download="计算机网络面试.pdf">计算机网络面试题总结.pdf</a>
+
 
 
 **作者信息**
