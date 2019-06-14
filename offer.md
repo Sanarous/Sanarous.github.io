@@ -1,12 +1,12 @@
 # 剑指offer题解笔记
 
 - [剑指offer题解笔记3~9](offer-3-9.md)
-- [剑指offer题解笔记10~19](offer-3-9.md)
-- [剑指offer题解笔记20~29](offer-3-9.md)
-- [剑指offer题解笔记30~39](offer-3-9.md)
-- [剑指offer题解笔记40~49](offer-3-9.md)
-- [剑指offer题解笔记50~59](offer-3-9.md)
-- [剑指offer题解笔记60~68](offer-3-9.md)
+- [剑指offer题解笔记10~19](offer-10-19.md)
+- [剑指offer题解笔记20~29](offer-20-29.md)
+- [剑指offer题解笔记30~39](offer-30-39.md)
+- [剑指offer题解笔记40~49](offer-40-49.md)
+- [剑指offer题解笔记50~59](offer-50-59.md)
+- [剑指offer题解笔记60~68](offer-60-68.md)
 
 # 剑指offer刷题指南
 
