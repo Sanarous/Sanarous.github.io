@@ -1,4 +1,4 @@
-> 这里记录了Java各种学习笔记，目前还在继续补充中，希望能够一起交流学习💯😄
+> 这里记录了Java各种学习笔记😄，目前还在继续补充中，希望能够一起交流学习💯
 
 ### ✏️ 数据结构与算法笔记
 - [剑指offer题解笔记](offer.md)
@@ -26,7 +26,7 @@
 - [MySQL](mysql.md)
 - [Redis](redis.md)
 
-### 💡 Java框架学习笔记
+### 🔍 Java框架学习笔记
 - [Spring与SpringMVC](spring)
 - [MyBatis](mybatis)
 - [Hibernate](hibernate)
@@ -43,6 +43,11 @@
 
 ### 🔧 常用工具使用笔记
 - [Docker](docker.md)
+
+### 💡 扩展知识
+
+- [TopK](topk.md)
+
 -----
 
 **作者信息**
@@ -53,4 +58,4 @@
 
 **作者声明**
 
-以上笔记内容均基于[CyC-Notes](https://cyc2018.github.io/CS-Notes/#/README)后端技术面试内容总结，并在原作基础上做了适合自己风格的修改，在此感谢原作者[CyC2018](https://github.com/CyC2018)。希望大家秋招都能找到满意的工作!
+以上笔记内容均基于[CyC-Notes](https://github.com/CyC2018/CS-Notes)后端技术面试内容总结，并在原作基础上做了适合自己风格的修改，在此感谢原作者[CyC2018](https://github.com/CyC2018)。希望大家秋招都能找到满意的工作!
