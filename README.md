@@ -1,57 +1,68 @@
 > 这里记录了Java各种学习笔记😄，目前还在继续补充中，希望能够一起交流学习💯
 
 ### ✏️ 数据结构与算法笔记
-- [剑指offer题解笔记](offer.md)
-- [LeetCode题解笔记](leetcode.md)
-- [排序](sort.md)
+- [剑指offer题解笔记](剑指offer)
+- [LeetCode题解笔记](leetcode)
+- [排序](排序)
 
-### 💻 计算机基础知识笔记
-- [计算机网络](computernetwork.md)
-- [HTTP](http.md)
-- [Socket](socket.md)
-- [操作系统](os.md)
-- [Linux](linux.md)
+### 💻 计算机基础
+- [计算机网络](计算机网络)
+- [HTTP](http)
+- [Socket](socket)
+- [操作系统](操作系统)
+- [Linux](Linux)
 
-### ☕️ Java笔记
-- [JavaSE](javase.md)
-- [Java容器](javacontainer.md)
-- [Java I/O](javaio.md)
-- [Java Web](javaweb)
-- [Java多线程](multithread.md)
-- [Java虚拟机](jvm.md)
+### ☕️ Java
+- [JavaSE](javase)
+- [Java容器](java容器)
+- [Java I/O](javaio)
+- [JavaWeb](javaweb)
+- [Java多线程](java多线程)
+- [Java虚拟机](java虚拟机)
 
-### 💾 数据库笔记
-- [数据库系统原理](database-principle.md)
-- [SQL](sql.md)
-- [MySQL](mysql.md)
-- [Redis](redis.md)
+### 💾 数据库
+- [数据库系统原理](数据库系统原理)
+- [SQL](sql)
+- [MySQL](mysql)
+- [Redis](redis)
 
-### 🔍 Java框架学习笔记
+### 🔍 主流框架
 - [Spring与SpringMVC](spring)
 - [MyBatis](mybatis)
-- [Hibernate](hibernate)
+- [Netty](netty)
 
-### 📚 SpringBoot学习笔记
-- [SpringBoot入门](springboot-helloworld.md)
-- [SpringBoot与web开发](springboot-web.md)
-- [SpringBoot与数据库操作](springboot-data.md)
-- [SpringBoot与中间件](springboot-mq.md)
-- [SpringBoot综合实践](springboot-exercise.md)
+### 📚 SpringBoot
+- [SpringBoot入门](springboot-helloworld)
+- [SpringBoot与web开发](springboot-web)
+- [SpringBoot与数据库操作](springboot-data)
+- [SpringBoot与中间件](springboot-mq)
+- [SpringBoot综合实践](springboot-exercise)
 
-### 🎨 面向对象思想
-- [23种设计模式](design-pattern)
+### 🎨 面向对象
+- [设计模式](设计模式)
+- [面向对象思想](面向对象思想)
 
-### 🔧 常用工具使用笔记
-- [Docker](docker.md)
+### 🔧 常用工具
+- [Docker](docker)
+- [Git](git)
+- [正则表达式](正则表达式)
+
+### 📺  系统架构
+
+- [系统设计基础](系统设计基础)
+- [分布式系统](分布式系统)
+- [缓存](缓存)
+- [消息队列](消息队列)
 
 ### 💡 扩展知识
 
-- [TopK](topk.md)
+- [TopK](topk)
+- [短链接系统](短链接系统)
 
 -----
 
 **作者信息**
-* 个人博客：https://bestzuo.cn
+* 个人主页：https://bestzuo.cn/about
 * Github：https://github.com/Sanarous
 * 邮箱：zuoxiang@whut.edu.cn
 <br/>
