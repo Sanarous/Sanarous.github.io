@@ -10,7 +10,7 @@
 - [HTTP](http)
 - [Socket](socket)
 - [操作系统](操作系统)
-- [Linux](Linux)
+- [Linux](linux)
 
 ### ☕️ Java
 - [JavaSE](javase)
