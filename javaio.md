@@ -253,7 +253,7 @@ public static void main(String[] args) throws IOException {
 
 # 七、NIO
 
-新的输入/输出 (NIO) 库是在 JDK 1.4 中引入的，弥补了原来的 I/O 的不足，提供了高速的、面向块的 I/O。
+新的输入/输出 (NIO) 库是在 JDK 1.4 中引入的，弥补了原来的 I/O 的不足，提供了高速的、面向块的 I/O。实际上，BIO（原来的I/O）包中已经使用NIO重新实现过，以便充分利用这种速度的提升，所以即使我们没有显式的使用NIO编写代码，也能从中受益。
 
 ## 流与块
 
@@ -279,6 +279,14 @@ I/O 包和 NIO 已经很好地集成了，java.io.\* 已经以 NIO 为基础重�
 - DatagramChannel：通过 UDP 读写网络中数据；
 - SocketChannel：通过 TCP 读写网络中数据；
 - ServerSocketChannel：可以监听新进来的 TCP 连接，对每一个新进来的连接都会创建一个 SocketChannel。
+
+BIO中有三个类被修改了，用以产生 FileChannel ：
+
+- FileInputStream
+- FileOutputStream
+- RandomAccessFile
+
+用这三种流可以产生可写的、可读可写的及可读的通道：
 
 ### 2. 缓冲区
 
@@ -378,7 +386,7 @@ NIO 实现了 IO 多路复用中的 Reactor 模型，一个线程 Thread 使用�
 
 因为创建和切换线程的开销很大，因此使用一个线程来处理多个事件而不是一个线程处理一个事件，对于 IO 密集型的应用具有很好地性能。
 
-应该注意的是，只有套接字 Channel 才能配置为非阻塞，而 FileChannel 不能，为 FileChannel 配置非阻塞也没有意义。
+应该注意的是，只有套接字 Channel （SocketChannel）才能配置为非阻塞，而 FileChannel 不能，为 FileChannel 配置非阻塞也没有意义。
 
 <div align="center"> <img src="https://docsify-1258928558.cos.ap-guangzhou.myqcloud.com/javaio/093f9e57-429c-413a-83ee-c689ba596cef.png" width="350px"> </div><br>
 
