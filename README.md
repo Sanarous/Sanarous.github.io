@@ -27,7 +27,7 @@
 - [Redis](redis)
 
 ### 🔍 主流框架
-- [Spring与SpringMVC](spring)
+- [Spring](spring)
 - [MyBatis](mybatis)
 - [SpringBoot](springboot)
 
