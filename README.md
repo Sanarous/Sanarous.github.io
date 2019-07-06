@@ -29,7 +29,6 @@
 ### 🔍 主流框架
 - [Spring与SpringMVC](spring)
 - [MyBatis](mybatis)
-- [Netty](netty)
 
 ### 📚 SpringBoot
 - [SpringBoot入门](springboot-helloworld)
