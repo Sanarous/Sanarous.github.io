@@ -29,18 +29,11 @@
 ### 🔍 主流框架
 - [Spring与SpringMVC](spring)
 - [MyBatis](mybatis)
-- [Netty](netty)
-
-### 📚 SpringBoot
-- [SpringBoot入门](springboot-helloworld)
-- [SpringBoot与web开发](springboot-web)
-- [SpringBoot与数据库操作](springboot-data)
-- [SpringBoot与中间件](springboot-mq)
-- [SpringBoot综合实践](springboot-exercise)
+- [SpringBoot](springboot)
 
 ### 🎨 面向对象
 - [设计模式](设计模式)
-- [面向对象思想](面向对象思想)
+- [面向对象思想](面向对象思想.md)
 
 ### 🔧 常用工具
 - [Docker](docker)
@@ -54,7 +47,7 @@
 - [缓存](缓存)
 - [消息队列](消息队列)
 
-### 💡 扩展知识
+### 📚 扩展知识
 
 - [TopK](topk)
 - [短链接系统](短链接系统)
