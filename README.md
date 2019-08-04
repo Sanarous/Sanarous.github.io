@@ -21,11 +21,11 @@
 - [Java虚拟机](java虚拟机)
 
 ### 🏷️ 源码分析
-- [HashMap和ConcurrentHashMap源码分析](HashMap和ConcurrentHashMap)
-- [AbstractQueuedSynchronizer源码分析](AQS)
-- [线程池源码分析](线程池)
-- [读写锁ReentrantReadWriteLock源码分析](读写锁)
-- [并发队列BlockingQueue源码分析](BlockingQueue)
+- [HashMap和ConcurrentHashMap](HashMap和ConcurrentHashMap)
+- [AbstractQueuedSynchronizer](AQS)
+- [线程池](线程池)
+- [读写锁ReentrantReadWriteLock](读写锁)
+- [并发队列BlockingQueue](BlockingQueue)
 
 ### 💾 数据库
 - [数据库系统原理](数据库系统原理)
@@ -34,7 +34,7 @@
 - [Redis](redis)
 
 ### 🔍 主流框架
-- [Spring Ioc](spring-ioc)
+- [Spring IoC](spring-ioc)
 - [Spring AOP](spring-aop) 
 
 
