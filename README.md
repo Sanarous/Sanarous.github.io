@@ -34,9 +34,9 @@
 - [Redis](redis)
 
 ### 🔍 主流框架
-- [Spring](spring)
-- [MyBatis](mybatis)
-- [SpringBoot](springboot)
+- [Spring Ioc](spring-ioc)
+- [Spring AOP](spring-aop) 
+
 
 ### 🎨 面向对象
 - [设计模式](设计模式)
