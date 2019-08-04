@@ -67,6 +67,7 @@
 * 邮箱：zuoxiang@whut.edu.cn
 <br/>
 
-**作者声明**
-
-以上笔记内容均基于[CyC-Notes](https://github.com/CyC2018/CS-Notes)后端技术面试内容总结，并在原作基础上做了适合自己风格的修改，在此感谢原作者[CyC2018](https://github.com/CyC2018)。希望大家秋招都能找到满意的工作!
+**参考笔记**
+- [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide)
+- [Javadoop](https://www.javadoop.com/)
