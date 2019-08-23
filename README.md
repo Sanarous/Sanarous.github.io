@@ -2,7 +2,7 @@
 
 ### ✏️ 数据结构与算法
 - [剑指offer题解笔记](剑指offer)
-- [LeetCode题解笔记](Leetcode 题解)
+- [LeetCode题解笔记](Leetcode题解)
 - [排序](排序)
 
 ### 💻 计算机基础
