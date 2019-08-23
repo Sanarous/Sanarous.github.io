@@ -3,25 +3,25 @@
 
 # 算法思想
 
-- [双指针](notes/Leetcode题解-双指针.md)
-- [排序](notes/Leetcode题解-排序.md)
-- [贪心思想](notes/Leetcode题解-贪心思想.md)
-- [二分查找](notes/Leetcode题解-二分查找.md)
-- [分治](notes/Leetcode题解-分治.md)
-- [搜索](notes/Leetcode题解-搜索.md)
-- [动态规划](notes/Leetcode题解-动态规划.md)
-- [数学](notes/Leetcode题解-数学.md)
+- [双指针](Leetcode题解-双指针.md)
+- [排序](Leetcode题解-排序.md)
+- [贪心思想](Leetcode题解-贪心思想.md)
+- [二分查找](Leetcode题解-二分查找.md)
+- [分治](Leetcode题解-分治.md)
+- [搜索](Leetcode题解-搜索.md)
+- [动态规划](Leetcode题解-动态规划.md)
+- [数学](Leetcode题解-数学.md)
 
 # 数据结构相关
 
-- [链表](notes/Leetcode题解-链表.md)
-- [树](notes/Leetcode题解-树.md)
-- [栈和队列](notes/Leetcode题解-栈和队列.md)
-- [哈希表](notes/Leetcode题解-哈希表.md)
-- [字符串](notes/Leetcode题解-字符串.md)
-- [数组与矩阵](notes/Leetcode题解-数组与矩阵.md)
-- [图](notes/Leetcode题解-图.md)
-- [位运算](notes/Leetcode题解-位运算.md)
+- [链表](Leetcode题解-链表.md)
+- [树](Leetcode题解-树.md)
+- [栈和队列](Leetcode题解-栈和队列.md)
+- [哈希表](Leetcode题解-哈希表.md)
+- [字符串](Leetcode题解-字符串.md)
+- [数组与矩阵](Leetcode题解-数组与矩阵.md)
+- [图](Leetcode题解-图.md)
+- [位运算](Leetcode题解-位运算.md)
 
 # 参考资料
 
