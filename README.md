@@ -20,7 +20,7 @@
 - [Java多线程](java多线程)
 - [Java虚拟机](java虚拟机)
 
-### 🏷️ 源码分析
+### 🏷️ JDK 源码分析
 - [HashMap和ConcurrentHashMap](HashMap和ConcurrentHashMap)
 - [AbstractQueuedSynchronizer](AQS)
 - [线程池](线程池)
@@ -62,7 +62,7 @@
 -----
 
 **作者信息**
-* 个人主页：https://bestzuo.cn/about
+* 个人主页：https://bestzuo.cn
 * Github：https://github.com/Sanarous
 * 邮箱：zuoxiang@whut.edu.cn
 <br/>
