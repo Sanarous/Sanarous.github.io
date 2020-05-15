@@ -464,7 +464,6 @@
 <script src="https://unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
 <script>
     const gitalk = new Gitalk({
         clientID: 'd8da74925ced88410258',
@@ -472,14 +471,9 @@
         repo: 'Sanarous.github.io',
         owner: 'Sanarous',
         admin: ['Sanarous'],
+        id: location.pathname,
         distractionFreeMode: false
     });
-
-    new Valine({
-        el: '#vcomments',
-        appId: 'Your appId',
-        appKey: 'Your appKey'
-    })
 </script>
 </body>
 </html>
