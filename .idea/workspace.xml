@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="782331a1-e72f-4a1b-b6d4-e641d1fb4871" name="Default Changelist" comment="新增留言区">
-      <change afterPath="$PROJECT_DIR$/.idea/Sanarous.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zuoxiang.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="782331a1-e72f-4a1b-b6d4-e641d1fb4871" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -26,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="459" column="9" lean-forward="true" selection-start-line="459" selection-start-column="9" selection-end-line="459" selection-end-column="9" />
+            <state relative-caret-position="671">
+              <caret line="473" column="26" selection-start-line="473" selection-start-column="26" selection-end-line="473" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -36,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="670">
+              <first_editor relative-caret-position="643">
                 <caret line="73" selection-start-line="73" selection-end-line="73" />
               </first_editor>
               <second_editor />
@@ -56,6 +51,12 @@
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="426" />
@@ -92,6 +93,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -114,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589545958365</updated>
-      <workItem from="1589545962359" duration="715000" />
+      <workItem from="1589545962359" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="新增留言区">
       <created>1589546535574</created>
@@ -123,11 +130,32 @@
       <option name="project" value="LOCAL" />
       <updated>1589546535574</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增留言区">
+      <created>1589546708382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589546708382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改部分问题">
+      <created>1589547125739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589547125739</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改部分问题">
+      <created>1589547417032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589547417032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="715000" />
+    <option name="totallyTimeSpent" value="1909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -138,7 +166,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20735608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -154,8 +182,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Maven" weight="0.32995737" />
+      <window_info anchor="right" id="RestServices" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Database" />
@@ -169,13 +197,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增留言区" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增留言区" />
+    <MESSAGE value="修改部分问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改部分问题" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="670">
+          <first_editor relative-caret-position="643">
             <caret line="73" selection-start-line="73" selection-end-line="73" />
           </first_editor>
           <second_editor />
@@ -184,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="459" column="9" lean-forward="true" selection-start-line="459" selection-start-column="9" selection-end-line="459" selection-end-column="9" />
+        <state relative-caret-position="671">
+          <caret line="473" column="26" selection-start-line="473" selection-start-column="26" selection-end-line="473" selection-end-column="26" />
         </state>
       </provider>
     </entry>
